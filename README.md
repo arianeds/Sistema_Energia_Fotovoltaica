@@ -22,5 +22,5 @@ Resultados gerados em uma planilha Excel.
 
 ![image](https://github.com/user-attachments/assets/06bb5428-01b9-448c-b685-6b7b722fc2dc)
 
-
+Obs. Valores fictícios relacionados ao consumo e tarifas 
 
